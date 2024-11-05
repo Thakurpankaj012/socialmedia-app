@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1730712079418,
+    "email": "user@example.com",
+    "username": "exampleUser",
+    "password": "$2a$08$H6PEvoP3r638CsZnb/i2suIS5JcxLTl5ciiXOCFlakl.oBKKTs9/S",
+    "role": "user"
+  },
+  {
+    "id": 1730713019902,
+    "email": "user1@example.com",
+    "username": "example1User",
+    "password": "$2a$08$WjUISdd5y6rMLIjaXXOGS.QwsKPdwQH72HoAMOIV5pb8bQz/gd1E.",
+    "role": "user"
+  }
+]

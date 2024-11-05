@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1730714293926,
+    "title": "My Public Post",
+    "content": "This post is visible to everyone.",
+    "authorId": 1730712079418
+  },
+  {
+    "id": 1730714390676,
+    "title": "My Private Post",
+    "content": "This post is not visible to anyone.",
+    "authorId": 1730712079418
+  },
+  {
+    "id": 1730714443115,
+    "title": "My Private Post 2",
+    "content": "This post is not visible.",
+    "authorId": 1730712079418
+  }
+]
